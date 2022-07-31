@@ -1,0 +1,5 @@
+utilities\Utils.class
+page\objects\DesktopPageObject.class
+page\objects\RetailPageObject.class
+core\Base.class
+utilities\CucumberReportingConfig.class
